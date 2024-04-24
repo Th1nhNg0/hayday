@@ -1,0 +1,59 @@
+Name,Level,Price,Time,XP,Size
+Bakery,2,20,10 sec,3,3x3
+Feed mill ,3,5,40 sec,4,3x3
+Feed mill ,12,"3,200",40 sec,4,3x3
+Dairy,6,50,2 h,8,4x4
+Sugar mill ,7,350,6 h,13,2x2
+Sugar mill ,76,"200,000",6 h,13,2x2
+Popcorn pot,8,650,8 h,14,3x3
+BBQ grill,9,730,8 h,14,2x2
+Pie oven,14,"2,200",12 h,17,3x3
+Loom,17,"3,200",1 d,19,2x2
+Sewing machine,19,"4,500",20 h,19,2x2
+Cake oven,21,"12,100",1 d,24,3x3
+Mine,24,"21,000",1 d 11 h,28,N/A
+Smelter ,24,"12,500",18 h,21,2x2
+Smelter ,24,"22,000",18 h,21,2x2
+Smelter ,24,"31,500 (3rd)",18 h,21,2x2
+Smelter ,24,"41,000 (4th)",18 h,21,2x2
+Smelter ,24,"50,500 (5th)",18 h,21,2x2
+Juice press,26,"31,000",1 d 8 h,27,2x2
+Lure workbench,27,N/A,N/A,N/A,N/A
+Ice cream maker,29,"38,000",1 d 7 h,27,3x2
+Net maker,30,"28,000",2 d,32,N/A
+Jam maker,35,"59,000",1 d 12 h,28,2x2
+Jeweler,38,"68,000",1 d 12 h,28,2x2
+Honey extractor,39,"35,000",1 d,24,2x2
+Coffee kiosk,42,"75,000",1 d 11 h,35,2x2
+Lobster pool,44,"80,000",2 d,32,N/A
+Soup kitchen,46,"115,000",1 d 12 h,28,2x2
+Candle maker,48,"118,000",1 d 14 h,24,2x2
+Flower shop,49,"120,000",1 d 15 h,30,2x2
+Duck salon,50,"90,000",2 d 5 h,34,N/A
+Candy machine,51,"120,000",1 d,27,2x2
+Sauce maker,54,"135,000",1 d 16 h,30,3x3
+Sushi bar,56,"150,000",1 d 20 h,38,2x2
+Salad bar,58,"165,000",2 d,32,3x3
+Sandwich bar,61,"180,000",2 d 4 h,34,3x3
+Smoothie mixer,64,"220,000",3 d,39,2x2
+Pasta maker,67,"400,000",3 d 7 h,43,2x2
+Wok kitchen,69,"350,000",3 d 8 h,41,2x2
+Hat maker,70,"260,000",3 d 3 h,40,2x2
+Pasta kitchen,72,"550,000",3 d 12 h,42,2x2
+Hot dog stand,75,"650,000",3 d 16 h,41,2x2
+Donut maker,76,"680,000",3 d 18 h,42,2x2
+Taco kitchen,77,"700,000",3 d 18 h,43,2x2
+Omelet station,77,"600,000",3 d 8 h,41,2x2
+Tea stand,80,"750,000",3 d 23 h,44,2x2
+Fondue pot,81,"800,000",4 d,44,2x2
+Bath kiosk,84,"850,000",4 d,44,2x2
+Deep fryer,87,"900,000",3 d 23 h,44,2x2
+Preservation station,91,"950,000",4 d,44,2x2
+Pottery studio,94,"1,000,000",4 d,46,2x2
+Fudge shop,99,"1,050,000",4 d,44,2x2
+Yogurt Maker,103,"1,100,000",4 d,44,2x2
+Stew Pot,106,"1,150,000",4 d,44,2x2
+Cupcake Maker,109,"1,200,000",4 d,44,2x2
+Waffle Maker,114,"1,250,000",4d,44,2x2
+Porridge Bar,119,"1,300,000",4d,44,2x2
+Milkshake Bar,124,"1,350,000",4d,44,2x2
